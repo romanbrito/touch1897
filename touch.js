@@ -1,10 +1,10 @@
 // carousel object
 function carouselObj(myClass, interval) {
-    this.myClass = myClass;
-    this.interval = interval;
-  
-    this.slideIndex = 0;
-  }
+  this.myClass = myClass;
+  this.interval = interval;
+
+  this.slideIndex = 0;
+}
 
 carouselObj.prototype.carousel = function() {
   var self = this;
@@ -43,18 +43,15 @@ topCarousel.carousel();
 var DELEGATE = document.querySelector("body");
 
 DELEGATE.addEventListener("click", function(e) {
-    var showClass = 'show-' + e.target.id
-    // main-buttons-second
-  if (e.target.id === "what-is-1897") DELEGATE.classList.add(showClass);
-  if (e.target.id === "qsr") DELEGATE.classList.add("show-full-service");
-  if (e.target.id === "gng") DELEGATE.classList.add("show-full-service");
+  if (e.target.id) {
+    // clear classes before adding new ones
+    DELEGATE.className = "";
+    var showClass = "show-" + e.target.id;
 
-  // main buttons-first
-  if (e.target.id === "full-service") DELEGATE.classList.add(showClass);
-  if (e.target.id === "qsr") DELEGATE.classList.add("show-full-service");
-  if (e.target.id === "gng") DELEGATE.classList.add("show-full-service");
+    DELEGATE.classList.add(showClass);
 
-  var fullServiceTimeOut = setTimeout(function() {
-    DELEGATE.classList.remove(showClass);
-  }, 5000);
+    var showTimeOut = setTimeout(function() {
+      DELEGATE.classList.remove(showClass);
+    }, 5000);
+  }
 });
