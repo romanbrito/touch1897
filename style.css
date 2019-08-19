@@ -17,6 +17,11 @@ ul,
   height: 1080px;
   width: 1920px;
 }
+.qsr {
+  width: 664px;
+  height: 1080px;
+  float: left;
+}
 .top-carousel,
 .bottom-carousel {
   margin: 0;
@@ -66,10 +71,41 @@ ul,
 .show-video .video {
   display: block;
 }
+.show-qsr .top-carousel {
+  display: none;
+}
+.show-qsr .qsr {
+  display: block;
+}
+.show-qsr-breakfast .top-carousel {
+  display: none;
+}
+.show-qsr-breakfast .qsr {
+  display: block;
+}
+.show-qsr-lunch .top-carousel,
+.show-qsr-lunch .qsr-breakfast,
+.show-qsr-lunch .qsr-deli {
+  display: none;
+}
+.show-qsr-lunch .qsr,
+.show-qsr-lunch .qsr-lunch {
+  display: block;
+}
+.show-qsr-deli .top-carousel,
+.show-qsr-deli .qsr-breakfast,
+.show-qsr-deli .qsr-lunch {
+  display: none;
+}
+.show-qsr-deli .qsr,
+.show-qsr-deli .qsr-deli {
+  display: block;
+}
 .full-service,
 .what-is-1897,
 .map,
 .gng,
-.video {
+.video,
+.qsr {
   display: none;
 }

@@ -19,6 +19,12 @@ ul, .header {
     width: 1920px;
 }
 
+.qsr {
+    width: 664px;
+    height: 1080px;
+    float: left;
+}
+
 .top-carousel, .bottom-carousel {
     margin: 0;
     padding: 0;
@@ -91,6 +97,49 @@ ul, .header {
     }
 }
 
-.full-service, .what-is-1897, .map, .gng, .video {
+.show-qsr {
+
+    .top-carousel {
+        display: none;
+    }
+
+    .qsr {
+        display: block;
+    }
+}
+
+.show-qsr-breakfast {
+    .top-carousel {
+        display: none;
+    }
+
+    .qsr {
+        display: block;
+    }
+}
+
+.show-qsr-lunch {
+    .top-carousel, .qsr-breakfast, .qsr-deli {
+        display: none;
+    }
+
+    .qsr, .qsr-lunch {
+        display: block;
+    }
+
+}
+
+.show-qsr-deli {
+    .top-carousel, .qsr-breakfast, .qsr-lunch {
+        display: none;
+    }
+
+    .qsr, .qsr-deli {
+        display: block;
+    }
+
+}
+
+.full-service, .what-is-1897, .map, .gng, .video, .qsr {
     display: none;
 }
