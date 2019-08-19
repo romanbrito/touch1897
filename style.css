@@ -4,6 +4,7 @@ li {
 
 ul {
     float: left;
+    padding: 0;
 }
 
 .header {
@@ -14,6 +15,38 @@ ul {
     display: none;
 }
 
-.show-deli .bottom-carousel {
-    border: 3px solid yellow;
+.container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    height: 1080px;
+    width: 1920px;
 }
+
+.top-carousel, .bottom-carousel {
+    margin: 0;
+    padding: 0;
+    width: 664px;
+    height: 1080px;
+}
+
+.main-buttons-first, .main-buttons-second {
+    padding-left: 5px;    
+    padding-right: 5px; 
+}
+
+.show-full-service .bottom-carousel {
+    display: none;
+}
+
+.full-service {
+    display: none;
+}
+
+.show-full-service .full-service {
+    display: block;
+}
+
