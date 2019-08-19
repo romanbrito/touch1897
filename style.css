@@ -49,8 +49,16 @@ ul,
 .show-map .map {
   display: block;
 }
+.show-gng .top-carousel,
+.show-gng .bottom-carousel {
+  display: none;
+}
+.show-gng .gng {
+  display: block;
+}
 .full-service,
 .what-is-1897,
-.map {
+.map,
+.gng {
   display: none;
 }
