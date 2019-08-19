@@ -56,6 +56,10 @@ ul,
 .show-gng .gng {
   display: block;
 }
+.show-video .top-carousel,
+.show-video .bottom-carousel {
+  visibility: hidden;
+}
 .full-service,
 .what-is-1897,
 .map,
