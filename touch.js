@@ -36,8 +36,8 @@ bottomCarousel.carousel();
 var topCarousel = new carouselObj(".top-carousel li", 2000);
 topCarousel.carousel();
 
-// var whatIs1897 = new carouselObj(".what-is-1897 li", 1000);
-// whatIs1897.carousel();
+var whatIs1897 = new carouselObj(".what-is-1897.slideshow li", 1000);
+whatIs1897.carousel();
 
 // click events
 var DELEGATE = document.querySelector("body");

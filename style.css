@@ -42,7 +42,15 @@ ul,
 .show-what-is-1897 .what-is-1897 {
   display: block;
 }
+.show-map .top-carousel,
+.show-map .bottom-carousel {
+  display: none;
+}
+.show-map .map {
+  display: block;
+}
 .full-service,
-.what-is-1897 {
+.what-is-1897,
+.map {
   display: none;
 }
