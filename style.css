@@ -5,6 +5,7 @@ ul,
 .header {
   float: left;
   padding: 0;
+  margin: 0;
 }
 .container {
   position: absolute;
@@ -56,13 +57,19 @@ ul,
 .show-gng .gng {
   display: block;
 }
-.show-video .top-carousel,
-.show-video .bottom-carousel {
+.show-video .top-carousel {
   visibility: hidden;
+}
+.show-video .bottom-carousel {
+  display: none;
+}
+.show-video .video {
+  display: block;
 }
 .full-service,
 .what-is-1897,
 .map,
-.gng {
+.gng,
+.video {
   display: none;
 }

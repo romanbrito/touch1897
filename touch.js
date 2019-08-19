@@ -52,6 +52,6 @@ DELEGATE.addEventListener("click", function(e) {
 
     var showTimeOut = setTimeout(function() {
       DELEGATE.classList.remove(showClass);
-    }, 5000);
+    }, 25000);
   }
 });

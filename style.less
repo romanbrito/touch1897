@@ -5,6 +5,7 @@ li {
 ul, .header {
     float: left;
     padding: 0;
+    margin: 0;
 }
 
 .container {
@@ -76,12 +77,20 @@ ul, .header {
 }
 
 .show-video {
-    
-    .top-carousel, .bottom-carousel {
+
+    .top-carousel {
         visibility: hidden;
+    }
+
+    .bottom-carousel {
+        display: none;
+    }
+
+    .video {
+        display: block;
     }
 }
 
-.full-service, .what-is-1897, .map, .gng {
+.full-service, .what-is-1897, .map, .gng, .video {
     display: none;
 }
