@@ -35,6 +35,7 @@ ul, .header {
 .main-buttons-first, .main-buttons-second {
     padding-left: 5px;    
     padding-right: 5px; 
+    margin-top: 40px;
 }
 
 .show-full-service {
@@ -99,7 +100,7 @@ ul, .header {
 
 .show-qsr {
 
-    .top-carousel {
+    .top-carousel, .bottom-carousel {
         display: none;
     }
 
@@ -109,7 +110,7 @@ ul, .header {
 }
 
 .show-qsr-breakfast {
-    .top-carousel {
+    .top-carousel, .bottom-carousel {
         display: none;
     }
 
@@ -119,7 +120,7 @@ ul, .header {
 }
 
 .show-qsr-lunch {
-    .top-carousel, .qsr-breakfast, .qsr-deli {
+    .top-carousel, .bottom-carousel, .qsr-breakfast, .qsr-deli {
         display: none;
     }
 
@@ -127,10 +128,14 @@ ul, .header {
         display: block;
     }
 
+    .qsr-lunch {
+        width: 500px;
+    }
+
 }
 
 .show-qsr-deli {
-    .top-carousel, .qsr-breakfast, .qsr-lunch {
+    .top-carousel, .bottom-carousel, .qsr-breakfast, .qsr-lunch {
         display: none;
     }
 

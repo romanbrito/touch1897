@@ -30,13 +30,13 @@ carouselObj.prototype.carousel = function() {
 };
 
 // run carousels
-var bottomCarousel = new carouselObj(".bottom-carousel li", 2500);
+var bottomCarousel = new carouselObj(".bottom-carousel li", 6000);
 bottomCarousel.carousel();
 
-var topCarousel = new carouselObj(".top-carousel li", 2000);
+var topCarousel = new carouselObj(".top-carousel li", 6500);
 topCarousel.carousel();
 
-var whatIs1897 = new carouselObj(".what-is-1897.slideshow li", 1000);
+var whatIs1897 = new carouselObj(".what-is-1897.slideshow li", 1500);
 whatIs1897.carousel();
 
 // click events

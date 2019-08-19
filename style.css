@@ -33,6 +33,7 @@ ul,
 .main-buttons-second {
   padding-left: 5px;
   padding-right: 5px;
+  margin-top: 40px;
 }
 .show-full-service .top-carousel,
 .show-full-service .bottom-carousel {
@@ -71,19 +72,22 @@ ul,
 .show-video .video {
   display: block;
 }
-.show-qsr .top-carousel {
+.show-qsr .top-carousel,
+.show-qsr .bottom-carousel {
   display: none;
 }
 .show-qsr .qsr {
   display: block;
 }
-.show-qsr-breakfast .top-carousel {
+.show-qsr-breakfast .top-carousel,
+.show-qsr-breakfast .bottom-carousel {
   display: none;
 }
 .show-qsr-breakfast .qsr {
   display: block;
 }
 .show-qsr-lunch .top-carousel,
+.show-qsr-lunch .bottom-carousel,
 .show-qsr-lunch .qsr-breakfast,
 .show-qsr-lunch .qsr-deli {
   display: none;
@@ -92,7 +96,11 @@ ul,
 .show-qsr-lunch .qsr-lunch {
   display: block;
 }
+.show-qsr-lunch .qsr-lunch {
+  width: 500px;
+}
 .show-qsr-deli .top-carousel,
+.show-qsr-deli .bottom-carousel,
 .show-qsr-deli .qsr-breakfast,
 .show-qsr-deli .qsr-lunch {
   display: none;
