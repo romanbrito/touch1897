@@ -1,0 +1,19 @@
+li {
+    list-style: none;
+}
+
+ul {
+    float: left;
+}
+
+.header {
+    float: left;
+}
+
+.hide {
+    display: none;
+}
+
+.show-deli .bottom-carousel {
+    border: 3px solid yellow;
+}
