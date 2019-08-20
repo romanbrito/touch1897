@@ -1,0 +1,96 @@
+{
+    "path": "romanbrito/1897 - Touch - Main - Rev",
+    "presentations": [
+        {
+            "id": "All Day",
+            "slideshows": [
+                {
+                    "slides": [
+                        {
+                            "id": "5d0797ef91bda7c19f875bc7",
+                            "name": "touch.mp4",
+                            "slideshowurl": "https://s3.amazonaws.com/menuboardmanager-media/prod/hmshostclt1897/gallery/1561040834_touch.mp4",
+                            "url": "https://s3.amazonaws.com/menuboardmanager-media/prod/hmshostclt1897/gallery/1561040834_touch.mp4",
+                            "width": 150,
+                            "type": "video",
+                            "props": {
+                                "duration": "60",
+                                "transition": "none"
+                            }
+                        }
+                    ],
+                    "cssrule": {
+                        "position": "absolute",
+                        "top": "",
+                        "left": "",
+                        "width": "",
+                        "height": "",
+                        "z-index": ""
+                    },
+                    "id": "All Day"
+                }
+            ],
+            "fields": [],
+            "fonts": [],
+            "html": {
+                "markup": " <div class=\"container\">\n        <img class=\"header\"\n            src=\"file:///mtd_down/common/Menuboard_Manager/css/2001_logo.png\"\n            style=\"height: 1080px;\" />\n        <ul class=\"top-carousel\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/2002_top1.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/2003_top2.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/2004_top3.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/2005_top4.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n        <ul class=\"full-service\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/2008_full_service_top.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n        <ul class=\"what-is-1897\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/2006_what_is_text.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n        <ul class=\"map\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/2007_map_main.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n        <ul class=\"gng\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20015_gng2.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n\n        <div class=\"qsr\">\n            <ul class=\"qsr-buttons\">\n                <li><img id=\"qsr-deli\"\n                        src=\"file:///mtd_down/common/Menuboard_Manager/css/2009_deli_button.jpg\" />\n                </li>\n                <li><img id=\"qsr-lunch\"\n                        src=\"file:///mtd_down/common/Menuboard_Manager/css/20010_lunch_button.jpg\" />\n                </li>\n                <li><img id=\"qsr-breakfast\"\n                        src=\"file:///mtd_down/common/Menuboard_Manager/css/20011_breakfast_button.jpg\" />\n                </li>\n            </ul>\n            <ul class=\"qsr-breakfast\">\n                <li><img src=\"file:///mtd_down/common/Menuboard_Manager/css/20012_qsr_breakfast.jpg\"\n                        style=\"height: 1080px;\" />\n                </li>\n            </ul>\n            <ul class=\"qsr-lunch\">\n                <li>\n                    <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20013_qsr_greens_pizza.jpg\"\n                        style=\"height: 1080px;\" />\n                </li>\n            </ul>\n            <ul class=\"qsr-deli\">\n                <li>\n                    <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20014_qsr_deli.jpg\"\n                        style=\"height: 1080px;\" />\n                </li>\n            </ul>\n        </div>\n\n        <ul class=\"main-buttons-first\">\n            <li>\n                <img class=\"video-nav\" id=\"video\"\n                    src=\"file:///mtd_down/common/Menuboard_Manager/css/20016_video.jpg\">\n            </li>\n            <li>\n                <img class=\"nav\" id=\"map\"\n                    src=\"file:///mtd_down/common/Menuboard_Manager/css/20017_map.jpg\" />\n            </li>\n            <li>\n                <img class=\"nav\" id=\"what-is-1897\"\n                    src=\"file:///mtd_down/common/Menuboard_Manager/css/20018_what.jpg\" />\n            </li>\n        </ul>\n        <ul class=\"main-buttons-second\">\n            <li>\n                <img class=\"nav\" id=\"gng\"\n                    src=\"file:///mtd_down/common/Menuboard_Manager/css/20019_grab.jpg\">\n            </li>\n            <li>\n                <img class=\"nav\" id=\"qsr\"\n                    src=\"file:///mtd_down/common/Menuboard_Manager/css/20020_quick_serve.jpg\">\n            </li>\n            <li>\n                <img class=\"nav\" id=\"full-service\"\n                    src=\"file:///mtd_down/common/Menuboard_Manager/css/20021_full_service.jpg\">\n            </li>\n        </ul>\n        <ul class=\"bottom-carousel\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20022_breakfast_pizzas.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20023_craft_beer.jpg\"\n                    style=\"height: 1080px;\">\n            </li>\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20024_breakfast.jpg\"\n                    style=\"height: 1080px;\">\n            </li>\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20025_full_bar.jpg\"\n                    style=\"height: 1080px;\">\n            </li>\n        </ul>\n        <ul class=\"full-service\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20031_full_service_bottom.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n        <ul class=\"what-is-1897 slideshow\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20026_open_kitchen.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20027_chalkboard.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20028_dining.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20029_gng1.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n        <ul class=\"map\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20030_logo_puck.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n        <ul class=\"gng\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20034_gng3.jpg\"\n                    style=\"height: 1080px; width: 870px;\" />\n            </li>\n        </ul>\n        <ul class=\"video\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20030_logo_puck.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n\n        <ul class=\"qsr-breakfast\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20024_breakfast.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n        <ul class=\"qsr-lunch\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20032_caesar.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n        <ul class=\"qsr-deli\">\n            <li>\n                <img src=\"file:///mtd_down/common/Menuboard_Manager/css/20033_carved_turkey.jpg\"\n                    style=\"height: 1080px;\" />\n            </li>\n        </ul>\n    </div>",
+                "code": "// carousel object\nfunction carouselObj(myClass, interval) {\n  this.myClass = myClass;\n  this.interval = interval;\n\n  this.slideIndex = 0;\n}\n\ncarouselObj.prototype.carousel = function() {\n  var self = this;\n\n  function slideShow() {\n    var i;\n    var x = document.querySelectorAll(self.myClass);\n    for (i = 0; i < x.length; i++) {\n      x[i].style.display = \"none\";\n    }\n    self.slideIndex++;\n    if (self.slideIndex > x.length) {\n      self.slideIndex = 1;\n    }\n    x[self.slideIndex - 1].style.display = \"block\";\n\n    setTimeout(function() {\n      slideShow();\n    }, self.interval);\n  }\n\n  slideShow();\n};\n\n// run carousels\nvar bottomCarousel = new carouselObj(\".bottom-carousel li\", 6000);\nbottomCarousel.carousel();\n\nvar topCarousel = new carouselObj(\".top-carousel li\", 6500);\ntopCarousel.carousel();\n\nvar whatIs1897 = new carouselObj(\".what-is-1897.slideshow li\", 1500);\nwhatIs1897.carousel();\n\n// click events\nvar DELEGATE = document.querySelector(\"body\");\n\nDELEGATE.addEventListener(\"click\", function(e) {\n  if (e.target.id) {\n    // clear classes before adding new ones\n    DELEGATE.className = \"\";\n    var showClass = \"show-\" + e.target.id;\n\n    DELEGATE.classList.add(showClass);\n\n    var showTimeOut = setTimeout(function() {\n      DELEGATE.classList.remove(showClass);\n    }, 15000);\n  }\n});\n",
+                "externals": []
+            },
+            "props": {
+                "isActive": true,
+                "schedulingOn": false,
+                "externalOn": false,
+                "streamingOn": false,
+                "syncplayOn": false
+            },
+            "csslinks": [
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/bg.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/logo.png",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/top1.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/top2.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/top3.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/top4.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/what_is_text.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/map_main.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/full_service_top.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/deli_button.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/lunch_button.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/breakfast_button.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/qsr_breakfast.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/qsr_greens_pizza.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/qsr_deli.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/gng2.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/video.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/map.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/what.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/grab.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/quick_serve.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/full_service.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/breakfast_pizzas.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/craft_beer.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/breakfast.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/full_bar.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/open_kitchen.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/chalkboard.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/dining.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/gng1.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/logo_puck.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/full_service_bottom.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/caesar.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/carved_turkey.jpg",
+                "https://menuboardmanager-media.s3.amazonaws.com/prod/hmshostclt1897/gallery/touch/gng3.jpg"
+            ],
+            "css": "li {\n  list-style: none;\n}\nul,\n.header {\n  float: left;\n  padding: 0;\n  margin: 0;\n}\n.container {\n  position: absolute;\n  top: 0;\n  left: 0;\n  overflow: hidden;\n  margin: 0;\n  padding: 0;\n  height: 1080px;\n  width: 1920px;\n}\n.qsr {\n  width: 664px;\n  height: 1080px;\n  float: left;\n  background-color: black;\n}\n.top-carousel,\n.bottom-carousel {\n  margin: 0;\n  padding: 0;\n  width: 664px;\n  height: 1080px;\n}\n.main-buttons-first,\n.main-buttons-second {\n  padding-left: 8px;\n  padding-right: 8px;\n  margin-top: 35px;\n}\n.show-full-service .top-carousel,\n.show-full-service .bottom-carousel {\n  display: none;\n}\n.show-full-service .full-service {\n  display: block;\n}\n.show-what-is-1897 .top-carousel,\n.show-what-is-1897 .bottom-carousel {\n  display: none;\n}\n.show-what-is-1897 .what-is-1897 {\n  display: block;\n}\n.show-map .top-carousel,\n.show-map .bottom-carousel {\n  display: none;\n}\n.show-map .map {\n  display: block;\n}\n.show-gng .top-carousel,\n.show-gng .bottom-carousel {\n  display: none;\n}\n.show-gng .gng {\n  display: block;\n}\n.show-video .top-carousel {\n  visibility: hidden;\n}\n.show-video .bottom-carousel {\n  display: none;\n}\n.show-video .video {\n  display: block;\n}\n.show-qsr .top-carousel,\n.show-qsr .bottom-carousel {\n  display: none;\n}\n.show-qsr .qsr {\n  display: block;\n}\n.show-qsr-breakfast .top-carousel,\n.show-qsr-breakfast .bottom-carousel {\n  display: none;\n}\n.show-qsr-breakfast .qsr {\n  display: block;\n}\n.show-qsr-lunch .top-carousel,\n.show-qsr-lunch .bottom-carousel,\n.show-qsr-lunch .qsr-breakfast,\n.show-qsr-lunch .qsr-deli {\n  display: none;\n}\n.show-qsr-lunch .qsr,\n.show-qsr-lunch .qsr-lunch {\n  display: block;\n}\n.show-qsr-lunch .qsr-lunch {\n  width: 500px;\n}\n.show-qsr-deli .top-carousel,\n.show-qsr-deli .bottom-carousel,\n.show-qsr-deli .qsr-breakfast,\n.show-qsr-deli .qsr-lunch {\n  display: none;\n}\n.show-qsr-deli .qsr,\n.show-qsr-deli .qsr-deli {\n  display: block;\n}\n.full-service,\n.what-is-1897,\n.map,\n.gng,\n.video,\n.qsr {\n  display: none;\n}"
+        }
+    ],
+    "props": {
+        "orientation": "landscape",
+        "scheduling": "presentation",
+        "rotationDurationList": [],
+        "xml": "false"
+    },
+    "units": [],
+    "user": "romanbrito",
+    "id": "5d5c13c130accfd46b99a485"
+}
